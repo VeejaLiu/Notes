@@ -26,10 +26,6 @@ for child_path_name in child_path_name_list:
 markdown += f"""\n"""
 markdown += f"""
 ## 所有文件：
-<div style="color:gray">
-（此顺序只代表本仓库先后的添加顺序）
-</div>
-
 """
 
 for child_path_name in child_path_name_list:
