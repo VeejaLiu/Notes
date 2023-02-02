@@ -5,13 +5,13 @@
 # Notes
 ## 目前分类
 - 0001.Linux
-- 0002.java
-- 0003.git
+- 0002.Java
+- 0003.Git
 - 0004.Python
 - 0907.StressTestTools
 - 3306.MySQL
-- 3307.ShardingSpere
-- 6379.redis
+- 3307.ShardingSphere
+- 6379.Redis
 
 
 ## 所有文件：
@@ -19,10 +19,10 @@
 - 0001.关闭防火墙.md
 - 0002.sed命令.md
 
-### 0002.java
+### 0002.Java
 - 001.CentOS安装Java.md
 
-### 0003.git
+### 0003.Git
 - 001.修改当前目录的git配置.md
 
 ### 0004.Python
@@ -38,10 +38,10 @@
 - 3.dump.md
 - 4.字符集排序集.md
 
-### 3307.ShardingSpere
+### 3307.ShardingSphere
 - 1.DistSQL.md
 
-### 6379.redis
+### 6379.Redis
 - 0001.Linux安装redis.md
 - 0002.修改redis密码.md
 
