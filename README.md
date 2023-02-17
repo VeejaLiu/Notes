@@ -8,10 +8,14 @@
 - 0002.Java
 - 0003.Git
 - 0004.Python
+- 0033.正则表达式
+- 0034.Corn表达式
 - 0907.StressTestTools
 - 3306.MySQL
 - 3307.ShardingSphere
 - 6379.Redis
+- 8848.Nacos
+- 9200.ElasticSearch
 
 
 ## 所有文件：
@@ -29,6 +33,12 @@
 - 0001.读取目录下文件.md
 - 0002.写入文件.md
 
+### 0033.正则表达式
+- 001.常用正则表达式.md
+
+### 0034.Corn表达式
+- 01.常用Corn表达式.md
+
 ### 0907.StressTestTools
 - wrk的使用.md
 
@@ -44,4 +54,10 @@
 ### 6379.Redis
 - 0001.Linux安装redis.md
 - 0002.修改redis密码.md
+
+### 8848.Nacos
+- 001.Linux安装Nacos.md
+
+### 9200.ElasticSearch
+- 0001.Base.md
 
