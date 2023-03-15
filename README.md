@@ -30,6 +30,7 @@
 
 ### 0003.Git
 - 001.修改当前目录的git配置.md
+- 002.快速创建PR命令.md
 
 ### 0004.Python
 - 0001.读取目录下文件.md
@@ -58,7 +59,7 @@
 ### 6379.Redis
 - 0001.Linux安装redis.md
 - 0002.修改redis密码.md
-- 0003.Docker快速创建MySQL.md
+- 0003.Docker快速创建Redis.md
 
 ### 8848.Nacos
 - 001.Linux安装Nacos.md
