@@ -12,7 +12,7 @@
 - 0034.Corn表达式
 - 0099.Docker
 - 0907.StressTestTools
-- 2181.zookeeper
+- 2181.ZooKeeper
 - 3306.MySQL
 - 3307.ShardingSphere
 - 6379.Redis
@@ -49,8 +49,8 @@
 ### 0907.StressTestTools
 - wrk的使用.md
 
-### 2181.zookeeper
-- 0001.Docker快速启动Zookeeper.md
+### 2181.ZooKeeper
+- 0001.Docker快速启动ZooKeeper.md
 
 ### 3306.MySQL
 - 1.用户密码.md
