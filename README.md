@@ -12,10 +12,12 @@
 - 0034.Corn表达式
 - 0099.Docker
 - 0907.StressTestTools
+- 2181.zookeeper
 - 3306.MySQL
 - 3307.ShardingSphere
 - 6379.Redis
 - 8848.Nacos
+- 9092.Kafka
 - 9200.ElasticSearch
 
 
@@ -47,6 +49,9 @@
 ### 0907.StressTestTools
 - wrk的使用.md
 
+### 2181.zookeeper
+- 0001.Docker快速启动Zookeeper.md
+
 ### 3306.MySQL
 - 1.用户密码.md
 - 2.数据一致性校验.md
@@ -63,6 +68,8 @@
 
 ### 8848.Nacos
 - 001.Linux安装Nacos.md
+
+### 9092.Kafka
 
 ### 9200.ElasticSearch
 - 0001.Base.md
