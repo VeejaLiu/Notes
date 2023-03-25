@@ -17,7 +17,6 @@
 - 3307.ShardingSphere
 - 6379.Redis
 - 8848.Nacos
-- 9092.Kafka
 - 9200.ElasticSearch
 
 
@@ -45,6 +44,7 @@
 - 01.常用Corn表达式.md
 
 ### 0099.Docker
+- 001.容器自启动.md
 
 ### 0907.StressTestTools
 - wrk的使用.md
@@ -69,8 +69,6 @@
 
 ### 8848.Nacos
 - 001.Linux安装Nacos.md
-
-### 9092.Kafka
 
 ### 9200.ElasticSearch
 - 0001.Base.md
